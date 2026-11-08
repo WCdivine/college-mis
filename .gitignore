@@ -1,0 +1,12 @@
+# Rust
+target/
+
+# Node
+node_modules/
+
+# 前端构建产物（构建后端 exe 时会嵌入，不入库）
+college-mis-frontend/dist/
+
+# 环境变量与本地数据
+.env
+*.db
