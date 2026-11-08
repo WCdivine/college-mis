@@ -1152,37 +1152,22 @@ chore: 构建/工具相关
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+本项目以 **CC BY-NC-SA 4.0**（知识共享 署名—非商业性使用—相同方式共享 4.0 国际）许可协议发布，完整法律文本见 [LICENSE](LICENSE) 文件。
 
-```
-MIT License
+简言之：
 
-Copyright (c) 2024 college-mis contributors
+- ✅ **可以自由**：复制、分发、修改、在课堂/学院等**非商业场景**部署使用；
+- 📌 **署名**：须注明原作者与出处，并标注是否作了修改；
+- 🚫 **非商业**：不得用于商业目的。**确有商用需求的，请先联系作者取得单独的商业授权**；
+- ♻️ **相同方式共享**：修改后的衍生作品必须以同一许可发布，**不得闭源**。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+> 学校/学院信息化场景属于典型的非商业使用，直接按协议署名使用即可，无需额外联系。
 
 ---
 
 ## 👥 开发团队
 
-**Qiu-ziyu**
+**WCdivine**
 
 ---
 
@@ -1222,11 +1207,11 @@ SOFTWARE.
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/your-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-repo?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-repo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-repo)
+![GitHub stars](https://img.shields.io/github/stars/WCdivine/college-mis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/WCdivine/college-mis?style=social)
+![GitHub issues](https://img.shields.io/github/issues/WCdivine/college-mis)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/WCdivine/college-mis)
+![GitHub last commit](https://img.shields.io/github/last-commit/WCdivine/college-mis)
 
 </div>
 
